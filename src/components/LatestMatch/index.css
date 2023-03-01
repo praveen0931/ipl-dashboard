@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.latest-match-bg-container {
+  background-color: #1e293b;
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #f26d22;
+  border-radius: 10px;
+  width: 100%;
+  margin-left: 30px;
+}
+.opposite-team-container {
+  padding: 5px;
+}
+.team-logo-container {
+  justify-content: center;
+}
+.match-details-container {
+  padding: 10px;
+  text-align: right;
+}
+.team-logo {
+  height: 35vh;
+  align-self: center;
+}
+.description {
+  color: aliceblue;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.heading {
+  color: #f0f8ff;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'bree-sherif';
+}
